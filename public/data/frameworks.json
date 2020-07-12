@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title_en": "Svelte",
+        "title_ar": "جوستبسترس",
+        "releaseDate": "1984-06-08",
+        "awardWinCount": 6,
+        "awardNominationCount": 8,
+        "imageUrl": "../img/svelte.png"
+    },
+    {
+        "id": 2,
+        "title_en": "React",
+        "title_ar": "الرجل الوطواط",
+        "releaseDate": "1989-06-23",
+        "awardWinCount": 9,
+        "awardNominationCount": 26,
+        "imageUrl": "../img/react.png"
+    },
+    {
+        "id": 3,
+        "title_en": "Vue",
+        "title_ar": "طفل الكاراتيه",
+        "releaseDate": "1984-06-22",
+        "awardWinCount": 2,
+        "awardNominationCount": 3,
+        "imageUrl": "../img/vue.png"
+    }
+]

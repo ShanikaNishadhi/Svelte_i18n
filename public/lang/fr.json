@@ -1,0 +1,20 @@
+{
+    "home": {
+        "topic": "Svelte Localization Tutorial",
+        "subtopic": "Internationalization and Localization"
+    },
+    "header": {
+        "home": "Home",
+        "contact": "Contact Us",
+        "about": "About"
+    },
+    "framework": {
+        "languages": "Won {n, plural, =0 {no awards} one {# award} other {# awards}}",
+        "rtl": "Nominated for {n, plural, =0 {no awards} one {# award} other {# awards}}",
+        "released_at": "Released {date}"
+    },
+    "footer": {
+        "line1": "Companion to a <a href=\"{phraseUrl}\">localise</a> article.",
+        "line2": "Made with <a href=\"{svelteUrl}\">Svelte</a> &amp; <a href=\"{bulmaUrl}\">Materialize</a>."
+    }
+}

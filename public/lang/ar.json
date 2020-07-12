@@ -1,0 +1,20 @@
+{
+    "home": {
+        "topic": "البرنامج التعليمي Svelte Localization",
+        "subtopic": "مجموعة أفلام مختارة من الثمنينات"
+    },
+    "header": {
+        "home": "",
+        "contact": "",
+        "about": ""
+    },
+    "framework": {
+        "languages": "{n, plural, =0 {لم يحوز على جوائز} one {حاز على جائزة #} two {حاز على جائزتين} few {حاز على # جوائز} other {حاز على # جائزة}}",
+        "rtl": "{n, plural, =0 {لم يرشح لجوائز} one {رشح لجائزة #} two {رشح لجائزتان} few {رشح لـ# جوائز} other {رشح لـ# جائزة}}",
+        "released_at": "صدر {date}"
+    },
+    "footer": {
+        "line1": "مرافق لمقال في <a href=\"{phraseUrl}\">مدونة فريز</a>.",
+        "line2": "تم التطوير بواسطة <a href=\"{svelteUrl}\">سڤلت</a> و <a href=\"{bulmaUrl}\">بولما</a>."
+    }
+}
